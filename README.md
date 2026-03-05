@@ -59,12 +59,14 @@ I'm a passionate **Full-Stack Web Developer** specialized in building clean, sca
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=transparent&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=YounessAitJamaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=YounessAitJamaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 
 <p align="center">
