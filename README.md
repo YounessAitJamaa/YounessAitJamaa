@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Youness+Ait+Jamaa;Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=I'am+Youness+Ait+Jamaa;Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=I%27am+YounessAitJamaa&label=Profile%20views&color=0e75b6&style=flat" alt="YounessAitJamaa" />
+  <img src="https://komarev.com/ghpvc/?username=YounessAitJamaa&label=Profile%20views&color=0e75b6&style=flat" alt="YounessAitJamaa" />
 </p>
 
 ---
