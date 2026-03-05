@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youness Ait Jamaa</h1>
-<h3 align="center">Full-Stack Web Developer | Laravel Enthusiast | Problem Solver</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YounessAitJamaa&label=Profile%20views&color=0e75b6&style=flat" alt="YounessAitJamaa" />
@@ -20,7 +20,7 @@ I'm a passionate **Full-Stack Web Developer** specialized in building clean, sca
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/youness-ait-jamaa-007b192b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youness-ait-jamaa-007b192b7" height="30" width="40" /></a>
-<a href="mailto:aitjamaayouness1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aitjamaayouness1@gmail.com" height="30" width="40" /></a>
+<a href="mailto:aitjamaayouness1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aitjamaayouness1@gmail.com" height="30" /></a>
 </p>
 
 ---
@@ -60,21 +60,21 @@ I'm a passionate **Full-Stack Web Developer** specialized in building clean, sca
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&show_icons=true&theme=radical" alt="YounessAitJamaa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&show_icons=true&theme=default" alt="YounessAitJamaa's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessAitJamaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessAitJamaa&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YounessAitJamaa&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YounessAitJamaa&theme=flat" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=radical" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
