@@ -60,21 +60,21 @@ I'm a passionate **Full-Stack Web Developer** specialized in building clean, sca
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&show_icons=true&theme=default" alt="YounessAitJamaa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="YounessAitJamaa's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessAitJamaa&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YounessAitJamaa&theme=flat" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YounessAitJamaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=default" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
