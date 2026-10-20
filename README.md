@@ -1,78 +1,110 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=I'am+Youness+Ait+Jamaa;Full-Stack+Web+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YounessAitJamaa&label=Profile%20views&color=0e75b6&style=flat" alt="YounessAitJamaa" />
-</p>
-
----
-
-### 💫 About Me
-I'm a passionate **Full-Stack Web Developer** specialized in building clean, scalable, and user-centric web applications. With a strong background in **Laravel** and **React**, I thrive on turning complex problems into elegant solutions.
-
-- 🔭 I’m currently working on enhancing **EasyColoc** and **Talentia**.
-- 🌱 I’m currently learning **Advanced System Design** and **Cloud Infrastructure**.
-- 💬 Ask me about **PHP/Laravel**, **React**, and **Database Optimization**.
-- 📫 Reach me at: **aitjamaayouness1@gmail.com**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/youness-ait-jamaa-007b192b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youness-ait-jamaa-007b192b7" height="30" width="40" /></a>
-<a href="mailto:aitjamaayouness1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aitjamaayouness1@gmail.com" height="30" /></a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-#### 🚀 Backend & Database
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-- **🏡 [EasyColoc](https://github.com/YounessAitJamaa/EasyColoc)**: A management system for shared housing and roommate coordination.
-- **💼 [Talentia](https://github.com/YounessAitJamaa/Talentia)**: A platform connecting talents with opportunities.
-- **⚽ [botolaFantasy](https://github.com/YounessAitJamaa/botolaFantasy)**: A fantasy football app tailored for the Moroccan Botola league.
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YounessAitJamaa&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=YounessAitJamaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# Youness Ait Jamaa
+
+### Full-Stack Web Developer
+
+Building web applications with Laravel and React · Exploring Python, Machine Learning & Deep Learning
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-ait-jamaa-007b192b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aitjamaayouness1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YounessAitJamaa)
 
 </div>
 
+## About Me
 
-<p align="center">
-  Copyright © 2026 Youness Ait Jamaa
-</p>
+I'm a full-stack web developer focused on building maintainable, scalable applications with clear interfaces and reliable backends. My core stack is **Laravel, React, and relational databases**.
 
+I'm expanding into the **JavaScript ecosystem**, **Python**, and **applied AI**, with an interest in connecting web applications to data pipelines and machine learning models.
+
+- **Currently building:** EasyColoc and Talentia.
+- **Currently learning:** system design, cloud infrastructure, machine learning, and deep learning.
+- **Technical interests:** API design, database optimization, predictive modeling, and deploying AI-powered features.
+- **Contact:** [aitjamaayouness1@gmail.com](mailto:aitjamaayouness1@gmail.com)
+
+## Core Technology Stack
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logoColor=white)
+
+### Frontend & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat-square)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Development & Deployment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## Expanding My Stack
+
+Technologies and concepts I'm exploring through study and hands-on projects.
+
+### JavaScript Ecosystem
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### Python & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Machine Learning & Deep Learning
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+| Area | Learning Focus |
+| --- | --- |
+| Data preparation | Data cleaning, exploratory analysis, feature engineering, and visualization |
+| Machine learning | Regression, classification, clustering, cross-validation, and model evaluation |
+| Deep learning | Neural networks, CNNs, transformers, and transfer learning |
+| Applied AI | Natural language processing, computer vision, and model inference APIs |
+| MLOps | Reproducible experiments, model versioning, containerization, and deployment |
+
+## Featured Projects
+
+| Project | Description |
+| --- | --- |
+| [EasyColoc](https://github.com/YounessAitJamaa/EasyColoc) | A shared-housing management application for organizing roommate coordination. |
+| [Talentia](https://github.com/YounessAitJamaa/Talentia) | A platform connecting talent with professional opportunities. |
+| [botolaFantasy](https://github.com/YounessAitJamaa/botolaFantasy) | A fantasy football application built around Morocco's Botola league. |
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YounessAitJamaa&show_icons=true&theme=transparent&hide_border=true" alt="Youness Ait Jamaa's GitHub statistics" loading="lazy" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=YounessAitJamaa&theme=transparent&hide_border=true" alt="Youness Ait Jamaa's GitHub contribution streak" loading="lazy" />
+
+</div>
